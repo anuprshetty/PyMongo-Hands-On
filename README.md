@@ -35,3 +35,4 @@ python -m pip install pymongo[srv]
 
 - [MongoDB documentation](https://docs.mongodb.com/)
 - [MongoDB Update Operators](https://docs.mongodb.com/manual/reference/operator/update/)
+- [PyMongo Documentation](https://pymongo.readthedocs.io/en/stable/)
